@@ -1,0 +1,130 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: black;
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+}
+
+.outter-container {
+  margin: 16.89% 37.85%;
+
+  box-shadow: hsl(217, 54%, 10%) 0 20px 5px 10px,
+  hsl(217, 54%, 10%) 0 40px 5px 20px,
+  hsl(217, 54%, 10%) 0 60px 5px 20px,
+  hsl(217, 54%, 10%) 0 80px 5px 10px,
+
+  hsl(217, 56%, 11%) 0 0 8px 30px,
+  hsl(217, 56%, 11%) 0 20px 8px 40px,
+  hsl(217, 56%, 11%) 0 50px 8px 60px,
+  hsl(217, 56%, 11%) 0 80px 8px 40px,
+  hsl(217, 56%, 11%) 0 110px 8px 30px;
+}
+
+.inner-container {
+  margin: 0;
+  background-color: black;
+  background-color: hsl(215, 32%, 27%);
+  border-radius: 5px;
+
+}
+
+.cube-img {
+  height: 53.08%;
+  width: 86.29%;
+  margin: 4% 6.85% 0;
+  border-radius: 5px;
+}
+
+.text {
+  margin-left: 6.85%;
+  text-align: left;
+}
+
+h2 {
+  color: white;
+  color: hsl(0, 0%, 100%);
+  font-size: 20px;
+  font-weight: 400;
+}
+
+p {
+  color: blue;
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
+}
+
+.eth-amount {
+  margin-left: 6.85%;
+}
+
+.eth-img {
+  float: left;
+}
+
+.eth0_041 {
+  color: green;
+  color: hsl(178, 100%, 50%);
+  text-align: left;
+  margin-left: 17px;
+}
+
+.deadline {
+  margin: auto 6.85%;
+  position: relative;
+  bottom: 36px;
+}
+
+.time-img {
+  float: right;
+}
+
+.days-left {
+  text-align: right;
+  margin-right: 25px;
+}
+
+hr {
+  border-bottom: 0;
+  margin: 36px auto 0;
+}
+
+.Creation {
+  margin: 0 6.85%;
+  padding-bottom: 36px;
+}
+
+.profile-pic {
+  height: 40px;
+  width: 40px;
+  background-color: black;
+  background-color: hsl(217, 54%, 11%);
+  border-radius: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  float: left;
+}
+
+.created-by {
+  text-align: left;
+  margin:0 0 0 50px;
+}
+
+span {
+  color: white;
+}
+
+.attribution {
+  display: inline-block;
+  background-color: black;
+  background-color: hsl(217, 54%, 10%);
+  color: blue;
+  color: hsl(215, 51%, 70%);
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
